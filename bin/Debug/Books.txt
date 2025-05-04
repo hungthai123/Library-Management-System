@@ -1,0 +1,13 @@
+Brave New World,Aldous Huxley,Chính trị viễn tưởng,Phản địa đàng,1932,1.jpg,Một xã hội tương lai nơi con người bị kiểm soát bởi công nghệ và thuốc an thần,đặt câu hỏi về tự do và hạnh phúc.
+Fahrenheit 451,Ray Bradbury,Chính trị viễn tưởng,Phản địa đàng,1953,2.jpg,Một thế giới nơi sách bị cấm và đốt cháy,theo chân một lính cứu hỏa bắt đầu nghi ngờ hệ thống.
+Animal Farm,George Orwell,Chính trị viễn tưởng,Châm biếm,1945,3.jpg,Một câu chuyện ngụ ngôn về cách quyền lực có thể bị tha hóa,với những con vật nổi dậy chống lại con người.
+Lord of the Flies,William Golding,Tiểu thuyết,Sinh tồn,1954,4.jpg,Một nhóm thiếu niên mắc kẹt trên đảo hoang,dần rơi vào hỗn loạn và bạo lực.
+The Catcher in the Rye,J.D. Salinger,Tiểu thuyết,Trưởng thành,1951,6.jpg,Một thanh niên nổi loạn lang thang New York,khám phá sự lạc lõng và áp lực xã hội.
+The Picture of Dorian Gray,Oscar Wilde,Tiểu thuyết,Triết học,1890,7.jpg,Một người đàn ông giữ được tuổi trẻ nhờ bức chân dung ma quái,nhưng cái giá phải trả là linh hồn của anh ta.
+To the Lighthouse,Virginia Woolf,Tiểu thuyết,Kinh điển,1927,9.jpg,Một tiểu thuyết về dòng ý thức,khám phá những suy nghĩ sâu kín của nhân vật về thời gian và mối quan hệ gia đình.
+The Stranger,Albert Camus,Tiểu thuyết,Triết học,1942,10.jpg,Câu chuyện về một người đàn ông vô cảm,bị cuốn vào một vụ giết người và đối mặt với ý nghĩa của cuộc sống.
+Les Misérables,Victor Hugo,Tiểu thuyết,Lịch sử,1862,11.jpg,Một bức tranh hoành tráng về xã hội Pháp thế kỷ 19,theo chân cuộc đời của Jean Valjean từ tù nhân đến người lương thiện.
+Dracula,Bram Stoker,Giả tưởng,Kinh dị,1897,12.jpg,Truyện kinh dị cổ điển kể về bá tước Dracula,kẻ hút máu và gây ám ảnh khắp châu Âu.
+Frankenstein,Mary Shelley,Giả tưởng,Kinh dị,1818,13.jpg,Một nhà khoa học tạo ra một sinh vật sống,nhưng nhanh chóng nhận ra hậu quả kinh hoàng của việc chống lại tự nhiên.
+The Little Prince,Antoine de Saint-Exupéry,Thiếu nhi,Triết học,1943,15.jpg,Một câu chuyện giản dị nhưng sâu sắc về tình bạn,tình yêu và sự ngây thơ của trẻ nhỏ.
+The Count of Monte Cristo,Alexandre Dumas,Tiểu thuyết,Phiêu lưu,1844,16.jpg,Câu chuyện báo thù kinh điển về Edmond Dantès,người thoát khỏi nhà tù để đòi lại công lý.

@@ -1,0 +1,92 @@
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\Library.exe
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\Library.exe.config
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.DangKy.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.DangNhap.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.exe
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.pdb
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\Library.pdb
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.UI.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.Users.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.DanhSachcs.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.BookForm.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.LichSuMuoncs.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.YeuThichcs.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.DanhSachUI.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.CHINHSUASACH.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.EDITSACHMUON.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.QUANLYNGUOIDUNG.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.QUANLYTHUVIEN.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\obj\Debug\Library.Splash.resources
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Memory.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Text.Json.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.ValueTuple.dll
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Memory.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Text.Json.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\Documents\Desktop\ĐẠI HỌC MỞ\Năm 2\KÌ 2\LapTrinhGD\Library\bin\Debug\System.ValueTuple.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\Library.exe.config
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\Library.exe
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\Library.pdb
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\Newtonsoft.Json.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Buffers.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.IO.Pipelines.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Memory.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Numerics.Vectors.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Text.Encodings.Web.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Text.Json.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.ValueTuple.dll
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\Newtonsoft.Json.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Buffers.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.IO.Pipelines.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Memory.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Numerics.Vectors.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Text.Encodings.Web.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Text.Json.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\bin\Debug\System.ValueTuple.xml
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.BookForm.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.CHINHSUASACH.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.DangKy.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.DangNhap.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.DanhSachcs.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.DanhSachUI.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.EDITSACHMUON.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.LichSuMuoncs.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.QUANLYNGUOIDUNG.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.QUANLYTHUVIEN.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.Splash.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.UI.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.Users.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.YeuThichcs.resources
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.csproj.Up2Date
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.exe
+D:\Open_University\HK5  2024-2025\Lập trình giao diện\.BTL\New folder (2)\Library\obj\Debug\Library.pdb

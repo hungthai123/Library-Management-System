@@ -1,0 +1,81 @@
+[
+  {
+    "Name": "su",
+    "PassWord": "su",
+    "id": 2,
+    "Email": "su",
+    "sachMuon": [
+      {
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Category": "Tiểu thuyết, Triết học",
+        "Year": "1866",
+	"ReturnDate":"10/10/2005",
+        "Url": null,
+        "Description": "Câu chuyện về một sinh viên nghèo giết người và những dằn vặt nội tâm sau tội ác của mình.",
+	"Status": "returned"
+      },
+      {
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Category": "Tiểu thuyết, Triết học",
+        "Year": "1866",
+	"ReturnDate":"10/10/2005",
+        "Url": null,
+        "Description": "Câu chuyện về một sinh viên nghèo giết người và những dằn vặt nội tâm sau tội ác của mình.",
+	"Status": "returned"
+      }
+    ],
+    "yeuThich": [
+      {
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Category": "Tiểu thuyết, Triết học",
+        "Year": "1866",
+        "Url": "5.jpg",
+        "Description": "Câu chuyện về một sinh viên nghèo giết người và những dằn vặt nội tâm sau tội ác của mình."
+      },
+      {
+        "Title": "Lord of the Flies",
+        "Author": "William Golding",
+        "Category": "Tiểu thuyết, Sinh tồn",
+        "Year": "1954",
+        "Url": "4.jpg",
+        "Description": "Một nhóm thiếu niên mắc kẹt trên đảo hoang, dần rơi vào hỗn loạn và bạo lực."
+      },
+      {
+        "Title": "Animal Farm",
+        "Author": "George Orwell",
+        "Category": "Chính trị viễn tưởng, Châm biếm",
+        "Year": "1945",
+        "Url": "3.jpg",
+        "Description": "Một câu chuyện ngụ ngôn về cách quyền lực có thể bị tha hóa, với những con vật nổi dậy chống lại con người."
+      },
+      {
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Category": "Tiểu thuyết, Triết học",
+        "Year": "1866",
+        "Url": "5.jpg",
+        "Description": "Câu chuyện về một sinh viên nghèo giết người và những dằn vặt nội tâm sau tội ác của mình."
+      },
+      {
+        "Title": "Lord of the Flies",
+        "Author": "William Golding",
+        "Category": "Tiểu thuyết, Sinh tồn",
+        "Year": "1954",
+        "Url": "4.jpg",
+        "Description": "Một nhóm thiếu niên mắc kẹt trên đảo hoang, dần rơi vào hỗn loạn và bạo lực."
+      },
+      {
+        "Title": "Fahrenheit 451",
+        "Author": "Ray Bradbury",
+        "Category": "Chính trị viễn tưởng, Phản địa đàng",
+        "Year": "1953",
+        "Url": "2.jpg",
+        "Description": "Một thế giới nơi sách bị cấm và đốt cháy, theo chân một lính cứu hỏa bắt đầu nghi ngờ hệ thống."
+      }
+    ],
+    "ngayTra": "0001-01-01T00:00:00"
+  }
+]

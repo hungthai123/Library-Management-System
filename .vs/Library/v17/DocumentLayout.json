@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\editsachmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:editsachmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\editsachmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:editsachmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|d:\\open_university\\hk5  2024-2025\\l\u1EADp tr\u00ECnh giao di\u1EC7n\\.btl\\1.b\u00E0i t\u1EADp l\u1EDBn\\library\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\yeuthichcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:yeuthichcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\yeuthichcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:yeuthichcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\danhsachui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:danhsachui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\lichsumuoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:lichsumuoncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\danhsachui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:danhsachui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\danhsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:danhsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\danhsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:danhsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\chinhsuasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:chinhsuasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\quanlythuvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:quanlythuvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\editsachmuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:editsachmuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E129C269-A2A0-41A6-9F64-D12BF6F60DBD}|Library.csproj|solutionrelative:dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EDITSACHMUON.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\EDITSACHMUON.cs",
+              "RelativeDocumentMoniker": "EDITSACHMUON.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\EDITSACHMUON.cs [Design]",
+              "RelativeToolTip": "EDITSACHMUON.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:43:48.336Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QUANLYNGUOIDUNG.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYNGUOIDUNG.cs",
+              "RelativeDocumentMoniker": "QUANLYNGUOIDUNG.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYNGUOIDUNG.cs [Design]",
+              "RelativeToolTip": "QUANLYNGUOIDUNG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:54:40.805Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QUANLYNGUOIDUNG.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYNGUOIDUNG.cs",
+              "RelativeDocumentMoniker": "QUANLYNGUOIDUNG.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYNGUOIDUNG.cs",
+              "RelativeToolTip": "QUANLYNGUOIDUNG.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:42:41.998Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EDITSACHMUON.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\EDITSACHMUON.cs",
+              "RelativeDocumentMoniker": "EDITSACHMUON.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\EDITSACHMUON.cs",
+              "RelativeToolTip": "EDITSACHMUON.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:26:16.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QUANLYTHUVIEN.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYTHUVIEN.cs",
+              "RelativeDocumentMoniker": "QUANLYTHUVIEN.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYTHUVIEN.cs",
+              "RelativeToolTip": "QUANLYTHUVIEN.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAYwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:51:35.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QUANLYTHUVIEN.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYTHUVIEN.cs",
+              "RelativeDocumentMoniker": "QUANLYTHUVIEN.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYTHUVIEN.cs [Design]",
+              "RelativeToolTip": "QUANLYTHUVIEN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:54:22.935Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Users.cs",
+              "RelativeToolTip": "Users.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAqwM8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:00:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookForm.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\BookForm.cs",
+              "RelativeToolTip": "BookForm.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwD8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:07:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "YeuThichcs.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\YeuThichcs.cs",
+              "RelativeDocumentMoniker": "YeuThichcs.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\YeuThichcs.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\YeuThichcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:05:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangNhap.cs",
+              "RelativeToolTip": "DangNhap.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAA7wEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:19:35.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:34:28.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DangKy.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:27:43.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Users.cs [Design]",
+              "RelativeToolTip": "Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:45:00.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Books.cs",
+              "RelativeDocumentMoniker": "Books.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Books.cs",
+              "RelativeToolTip": "Books.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:23:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:27:59.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UI.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\UI.cs",
+              "RelativeToolTip": "UI.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:45:03.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookForm.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\BookForm.cs [Design]",
+              "RelativeToolTip": "BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:08:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:58:25.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangKy.cs",
+              "RelativeToolTip": "DangKy.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwEEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:16:53.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:19:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrangThai.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\TrangThai.cs",
+              "RelativeDocumentMoniker": "TrangThai.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\TrangThai.cs",
+              "RelativeToolTip": "TrangThai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:22:10.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "YeuThichcs.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\YeuThichcs.cs",
+              "RelativeDocumentMoniker": "YeuThichcs.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\YeuThichcs.cs",
+              "RelativeToolTip": "YeuThichcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:45:28.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DanhSachUI.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DanhSachUI.cs",
+              "RelativeDocumentMoniker": "DanhSachUI.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DanhSachUI.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DanhSachUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:13:13.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LichSuMuoncs.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\LichSuMuoncs.cs",
+              "RelativeDocumentMoniker": "LichSuMuoncs.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\LichSuMuoncs.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\LichSuMuoncs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:38:16.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DanhSachcs.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DanhSachcs.cs",
+              "RelativeDocumentMoniker": "DanhSachcs.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DanhSachcs.cs [Design]",
+              "RelativeToolTip": "..\\..\\Final\\L\u01B0u tr\u1EEF\\new 1\\Check1\\Library\\DanhSachcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:30:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DanhSachcs.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DanhSachcs.cs",
+              "RelativeDocumentMoniker": "DanhSachcs.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DanhSachcs.cs",
+              "RelativeToolTip": "DanhSachcs.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:32:50.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DanhSachUI.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DanhSachUI.cs",
+              "RelativeDocumentMoniker": "DanhSachUI.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DanhSachUI.cs",
+              "RelativeToolTip": "DanhSachUI.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:16:55.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CHINHSUASACH.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\CHINHSUASACH.cs",
+              "RelativeDocumentMoniker": "CHINHSUASACH.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\CHINHSUASACH.cs",
+              "RelativeToolTip": "CHINHSUASACH.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAWwCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:26:50.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Splash.cs",
+              "RelativeDocumentMoniker": "Splash.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\New folder (2)\\Library\\Splash.cs [Design]",
+              "RelativeToolTip": "..\\..\\New folder (2)\\Library\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:59:07.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UI.cs [Design]",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\UI.cs [Design]",
+              "RelativeToolTip": "UI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:50:47.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Splash.cs",
+              "RelativeDocumentMoniker": "Splash.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\Splash.cs",
+              "RelativeToolTip": "Splash.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:59:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QUANLYTHUVIEN.Designer.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYTHUVIEN.Designer.cs",
+              "RelativeDocumentMoniker": "QUANLYTHUVIEN.Designer.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\QUANLYTHUVIEN.Designer.cs",
+              "RelativeToolTip": "QUANLYTHUVIEN.Designer.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAvwLsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:53:36.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EDITSACHMUON.Designer.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\EDITSACHMUON.Designer.cs",
+              "RelativeDocumentMoniker": "EDITSACHMUON.Designer.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\EDITSACHMUON.Designer.cs",
+              "RelativeToolTip": "EDITSACHMUON.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:23:19.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookForm.Designer.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\BookForm.Designer.cs",
+              "RelativeDocumentMoniker": "BookForm.Designer.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\BookForm.Designer.cs",
+              "RelativeToolTip": "BookForm.Designer.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAcwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:07:58.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "DangNhap.Designer.cs",
+              "ToolTip": "D:\\Open_University\\HK5  2024-2025\\L\u1EADp tr\u00ECnh giao di\u1EC7n\\.BTL\\1.B\u00E0i t\u1EADp l\u1EDBn\\Library\\DangNhap.Designer.cs",
+              "RelativeToolTip": "DangNhap.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAvwDkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:07:29.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
